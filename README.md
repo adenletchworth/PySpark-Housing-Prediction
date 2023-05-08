@@ -1,2 +1,2 @@
 # PySpark-Housing-Prediction
-In this repository I am trying to predict MEDV (Median value of Owner-occupied homes in 1000's). I am doing this by implementing a Linear Regression Model with PySpark. The dataset im using is https://www.kaggle.com/datasets/arslanali4343/real-estate-dataset.
+In this repository I am trying to predict MEDV (Median value of Owner-occupied homes in 1000's). I am doing this by implementing a Linear Regression Model with PySpark. I will then automate this model using a Pipeline. The dataset im using is https://www.kaggle.com/datasets/arslanali4343/real-estate-dataset and I am using Machine Learning with PySpark: With Natural Language Processing and Recommender Systems as my primary resource.
